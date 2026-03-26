@@ -1,0 +1,15 @@
+C:\Users\BaneleS\Downloads\C# Bootcamp\Lesson9\InterfacesB\bin\Debug\net10.0\InterfacesB.exe
+C:\Users\BaneleS\Downloads\C# Bootcamp\Lesson9\InterfacesB\bin\Debug\net10.0\InterfacesB.deps.json
+C:\Users\BaneleS\Downloads\C# Bootcamp\Lesson9\InterfacesB\bin\Debug\net10.0\InterfacesB.runtimeconfig.json
+C:\Users\BaneleS\Downloads\C# Bootcamp\Lesson9\InterfacesB\bin\Debug\net10.0\InterfacesB.dll
+C:\Users\BaneleS\Downloads\C# Bootcamp\Lesson9\InterfacesB\bin\Debug\net10.0\InterfacesB.pdb
+C:\Users\BaneleS\Downloads\C# Bootcamp\Lesson9\InterfacesB\obj\Debug\net10.0\InterfacesB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BaneleS\Downloads\C# Bootcamp\Lesson9\InterfacesB\obj\Debug\net10.0\InterfacesB.AssemblyInfoInputs.cache
+C:\Users\BaneleS\Downloads\C# Bootcamp\Lesson9\InterfacesB\obj\Debug\net10.0\InterfacesB.AssemblyInfo.cs
+C:\Users\BaneleS\Downloads\C# Bootcamp\Lesson9\InterfacesB\obj\Debug\net10.0\InterfacesB.csproj.CoreCompileInputs.cache
+C:\Users\BaneleS\Downloads\C# Bootcamp\Lesson9\InterfacesB\obj\Debug\net10.0\InterfacesB.sourcelink.json
+C:\Users\BaneleS\Downloads\C# Bootcamp\Lesson9\InterfacesB\obj\Debug\net10.0\InterfacesB.dll
+C:\Users\BaneleS\Downloads\C# Bootcamp\Lesson9\InterfacesB\obj\Debug\net10.0\refint\InterfacesB.dll
+C:\Users\BaneleS\Downloads\C# Bootcamp\Lesson9\InterfacesB\obj\Debug\net10.0\InterfacesB.pdb
+C:\Users\BaneleS\Downloads\C# Bootcamp\Lesson9\InterfacesB\obj\Debug\net10.0\InterfacesB.genruntimeconfig.cache
+C:\Users\BaneleS\Downloads\C# Bootcamp\Lesson9\InterfacesB\obj\Debug\net10.0\ref\InterfacesB.dll
